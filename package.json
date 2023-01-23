@@ -1,0 +1,28 @@
+{
+  "name": "action-functions",
+  "version": "1.0.0",
+  "main": "fork-repo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techleadssa/action-functions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techleadssa/action-functions/issues"
+  },
+  "homepage": "https://github.com/techleadssa/action-functions#readme",
+  "dependencies": {
+    "@octokit/core": "^4.1.0",
+    "@octokit/request": "^6.2.2",
+    "axios": "^1.2.2",
+    "dotenv": "^16.0.3",
+    "octokit": "^2.0.11"
+  },
+  "description": ""
+}
